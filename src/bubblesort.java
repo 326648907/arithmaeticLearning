@@ -13,7 +13,7 @@ public class bubblesort {
         }
     }
     public static void main(String[] args) {
-        int[] array = {10,7,2,4,7,62,3,4,2,1,8,9,19};
+        int[] array = {1,2,3,4,7,442,32,41,2,13,8,9,19};
         Bubblesort(array);
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]+" ");

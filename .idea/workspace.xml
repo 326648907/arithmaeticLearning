@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a58a3273-029b-4ebe-a372-3e806c46fe45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arithmetic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/arithmetic/Dijkstra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/arithmetic/bubblesort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/arithmetic/quicksort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dijkstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quicksort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IdeaProject\arithmetic\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mavenStore" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1XQSuYhFNrM3cxIleLdcKLbiacI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.bubblesort">
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dijkstra" />
+      <module name="arithmetic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubblesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubblesort" />
+      <module name="arithmetic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quicksort" />
+      <module name="arithmetic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.bubblesort" />
+        <item itemvalue="Application.quicksort" />
+        <item itemvalue="Application.Dijkstra" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a58a3273-029b-4ebe-a372-3e806c46fe45" name="Default Changelist" comment="" />
+      <created>1580977049656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580977049656</updated>
+      <workItem from="1580977055041" duration="10441000" />
+      <workItem from="1581035224728" duration="6539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1580980188796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580980188796" />
+    <state x="372" y="8" key="CommitChangelistDialog2" timestamp="1581041653463">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581041653463" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1581041606790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581041606790" />
+    <state width="1493" height="87" key="GridCell.Tab.0.bottom" timestamp="1581040248895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581040248895" />
+    <state width="1493" height="87" key="GridCell.Tab.0.center" timestamp="1581040248891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581040248891" />
+    <state width="1493" height="87" key="GridCell.Tab.0.left" timestamp="1581040248890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581040248890" />
+    <state width="1493" height="87" key="GridCell.Tab.0.right" timestamp="1581040248893">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="87" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581040248893" />
+    <state width="1493" height="143" key="GridCell.Tab.1.bottom" timestamp="1581038932196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581038932196" />
+    <state width="1493" height="143" key="GridCell.Tab.1.center" timestamp="1581038932196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581038932196" />
+    <state width="1493" height="143" key="GridCell.Tab.1.left" timestamp="1581038932196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581038932196" />
+    <state width="1493" height="143" key="GridCell.Tab.1.right" timestamp="1581038932196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="143" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581038932196" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1581041670643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581041670643" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581035224719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581035224719" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580980309306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580980309306" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580990392484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580990392484" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="route" />
+        <watch expression="array" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

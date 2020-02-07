@@ -1,4 +1,4 @@
-//狄克斯特拉算法
+//狄克斯特拉算法 基于《啊哈，算法》
 public class quicksort {
     public static void Quicksort(int[] array, int left ,int right){
         //基线递归结束

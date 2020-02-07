@@ -1,4 +1,4 @@
-//冒泡排序
+//冒泡排序 基于《啊哈，算法》
 public class bubblesort {
     public static void Bubblesort(int[] array){
         for (int end = array.length-1;end > 1;end--){

@@ -1,5 +1,5 @@
 import java.util.*;
-//狄克斯特拉算法
+//狄克斯特拉算法 基于《图解算法》
 public class Dijkstra {
     public static Integer Dijkstra(HashMap<String, HashMap<String, Integer>> graph, String start, String end){
         //取出图的键
